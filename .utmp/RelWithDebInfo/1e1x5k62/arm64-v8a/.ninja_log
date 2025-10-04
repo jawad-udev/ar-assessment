@@ -1,0 +1,19 @@
+# ninja log v5
+7	1258	1759444697548370468	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b66962fe04b7bdd
+7	1251	1759444697541180385	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7ebf0aaf607e7c0d
+6	1281	1759444697573620404	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	871f415b4b75f271
+8	1291	1759444697584395117	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8b7758caf1cfa52b
+8	1438	1759444697727004515	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f2978780617bfc7c
+7	1635	1759444697927766418	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5917012f3bed35a7
+6	1752	1759444698043613803	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	de431d2b6451acfa
+7	1355	1759444697643127609	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8b12bff59b7bea3
+1752	1857	1759444698153025879	/Users/jawadahmad/Documents/Unity Projects/Phygtl-AR-Assessment/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1e1x5k62/obj/arm64-v8a/libgame.so	7e4a8ea19419d408
+7	1061	1759604512600169415	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b66962fe04b7bdd
+7	1080	1759604512621202824	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7ebf0aaf607e7c0d
+6	1093	1759604512633986263	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	871f415b4b75f271
+7	1117	1759604512658189092	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8b7758caf1cfa52b
+7	1167	1759604512709213189	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8b12bff59b7bea3
+8	1296	1759604512838045358	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f2978780617bfc7c
+7	1437	1759604512979532558	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5917012f3bed35a7
+6	1625	1759604513160104381	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	de431d2b6451acfa
+1625	1843	1759604513375026099	/Users/jawadahmad/Documents/Unity Projects/Phygtl-AR-Assessment/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1e1x5k62/obj/arm64-v8a/libgame.so	7e4a8ea19419d408

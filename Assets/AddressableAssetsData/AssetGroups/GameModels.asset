@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameModels
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GameModels
+  m_GUID: ef86562c7be8b44d082e8e6bbba340ff
+  m_SerializeEntries:
+  - m_GUID: 0605605897bca44cca856769e56453c2
+    m_Address: Assets/Prefabs/ModelPrefabs/hoplite.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Models
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71f1963a8ace648b4bc47c21802978c4
+    m_Address: Assets/Prefabs/ModelPrefabs/DarkThrone.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Models
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72d45d1f6553d4174bdf626339010f13
+    m_Address: Assets/Prefabs/ModelPrefabs/Avacado.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Models
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf5a4c43837474542bce31622cc9cd63
+    m_Address: Assets/Prefabs/ModelPrefabs/Labubu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Models
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df1e28f696a194b4088d16236d045625
+    m_Address: Assets/Prefabs/ModelPrefabs/CreepyJoker.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Models
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b54c2ec9719ce469c92da64144ad4353, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 65ee30a78c3094f8b8f3ca34031723d1, type: 2}
+    - {fileID: 11400000, guid: 7859c95768e5d4fe7abcde744ad679c2, type: 2}
