@@ -61,7 +61,7 @@ public class ARObjectHandler : MonoBehaviour
         // Hide the button panel
         if (buttonPanel != null)
         {
-            buttonPanel.SetActive(false);
+            buttonPanel.GetComponent<CircularMainMenu>().HideMenu();
         }
 
         // Optionally load the prefab ahead of time
@@ -188,7 +188,7 @@ public class ARObjectHandler : MonoBehaviour
     {
         if (buttonPanel != null)
         {
-            buttonPanel.SetActive(true);
+            buttonPanel.GetComponent<CircularMainMenu>().ShowMenu();
         }
     }
 
